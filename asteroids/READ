@@ -1,0 +1,6 @@
+Asteroids:
+  A game of spaceship and asteroids, where the space ship can rotate, thrust and shoot down the floating asteroids in space.
+  controls:
+  arrow keys: movement
+  space bar: shoot
+  
